@@ -1,9 +1,9 @@
 #include <iostream>
 
-using namespace std:
+using namespace std;
 
 int main(int argc, char** argv)
 {
-    cout << "Cmaketest.Test1¥n";
-    return 0:
+    cout << "Cmaketest.Test1" << endl;
+    return 0;
 }
